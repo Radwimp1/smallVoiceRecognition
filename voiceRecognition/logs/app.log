@@ -1,0 +1,391 @@
+2025-04-21 12:11:23 | ERROR | 天气查询失败: 'SearchProcessor' object has no attribute 'get_similar_city'
+2025-04-21 12:27:09 | ERROR | Apple Music 路径不存在: C:\Program Files\WindowsApps\AppleInc.AppleMusic_1.0.0.0_x64__nzyj5cx40ttqa\AppleMusic.exe
+2025-04-22 16:36:31 | ERROR | 语音识别失败: Model tiny-finetune not found; available models = ['tiny.en', 'tiny', 'base.en', 'base', 'small.en', 'small', 'medium.en', 'medium', 'large-v1', 'large-v2', 'large-v3', 'large', 'large-v3-turbo', 'turbo']
+2025-04-22 16:41:54 | ERROR | 语音识别失败: name 'os' is not defined
+2025-04-22 16:41:57 | ERROR | 语音识别失败: name 'os' is not defined
+2025-04-22 16:41:57 | ERROR | 语音识别失败: name 'os' is not defined
+2025-04-22 16:41:58 | ERROR | 语音识别失败: name 'os' is not defined
+2025-04-22 16:41:58 | ERROR | 语音识别失败: name 'os' is not defined
+2025-04-22 16:43:16 | ERROR | 语音识别失败: name 'os' is not defined
+2025-04-22 16:43:46 | ERROR | 语音识别失败: module 'whisper' has no attribute 'load_model_from_file'
+2025-04-22 17:27:18 | ERROR | 语音识别失败: 'dims'
+2025-04-22 17:30:00 | ERROR | 语音识别失败: 'dims'
+2025-04-22 17:30:02 | ERROR | 语音识别失败: 'dims'
+2025-04-22 17:30:03 | ERROR | 语音识别失败: 'dims'
+2025-04-22 17:30:05 | ERROR | 语音识别失败: 'dims'
+2025-04-22 17:34:11 | ERROR | 语音识别失败: Model large-v3-turbo.pt not found; available models = ['tiny.en', 'tiny', 'base.en', 'base', 'small.en', 'small', 'medium.en', 'medium', 'large-v1', 'large-v2', 'large-v3', 'large', 'large-v3-turbo', 'turbo']
+2025-04-22 17:34:13 | ERROR | 语音识别失败: Model large-v3-turbo.pt not found; available models = ['tiny.en', 'tiny', 'base.en', 'base', 'small.en', 'small', 'medium.en', 'medium', 'large-v1', 'large-v2', 'large-v3', 'large', 'large-v3-turbo', 'turbo']
+2025-04-22 17:34:13 | ERROR | 语音识别失败: Model large-v3-turbo.pt not found; available models = ['tiny.en', 'tiny', 'base.en', 'base', 'small.en', 'small', 'medium.en', 'medium', 'large-v1', 'large-v2', 'large-v3', 'large', 'large-v3-turbo', 'turbo']
+2025-04-22 17:34:13 | ERROR | 语音识别失败: Model large-v3-turbo.pt not found; available models = ['tiny.en', 'tiny', 'base.en', 'base', 'small.en', 'small', 'medium.en', 'medium', 'large-v1', 'large-v2', 'large-v3', 'large', 'large-v3-turbo', 'turbo']
+2025-04-22 17:35:57 | ERROR | 语音识别失败: 'Whisper' object has no attribute 'checkpoint'
+2025-04-22 17:46:04 | ERROR | 语音识别失败: name 'pdb' is not defined
+2025-04-22 17:46:49 | ERROR | 语音识别失败: name 'pdb' is not defined
+2025-04-22 17:46:51 | ERROR | 语音识别失败: name 'pdb' is not defined
+2025-04-22 17:46:52 | ERROR | 语音识别失败: name 'pdb' is not defined
+2025-04-22 18:39:50 | ERROR | 语音识别失败: You have explicitly specified `forced_decoder_ids`. Please remove the `forced_decoder_ids` argument in favour of `input_ids` or `decoder_input_ids` respectively.
+2025-04-22 18:40:56 | ERROR | 语音识别失败: You have explicitly specified `forced_decoder_ids`. Please remove the `forced_decoder_ids` argument in favour of `input_ids` or `decoder_input_ids` respectively.
+2025-04-22 18:45:30 | ERROR | 语音识别失败: _sanitize_parameters() got an unexpected keyword argument 'task'
+2025-04-22 18:49:42 | ERROR | 播放音乐失败: 控制网易云音乐失败: name 'time' is not defined
+2025-04-22 18:54:19 | ERROR | 播放音乐失败: 控制网易云音乐失败: name 'time' is not defined
+2025-04-22 18:56:47 | ERROR | 播放音乐失败: 控制网易云音乐失败: name 'time' is not defined
+2025-04-22 18:57:44 | ERROR | 天气查询失败: 'SearchProcessor' object has no attribute 'get_similar_city'
+2025-04-22 18:59:27 | ERROR | 天气查询失败: 'SearchProcessor' object has no attribute 'get_similar_city'
+2025-05-06 14:52:07 | ERROR | 播放音乐失败: 无法识别歌手和歌名
+2025-05-06 14:59:23 | ERROR | 播放音乐失败: 网页搜索播放失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=136.0.3240.50)
+Stacktrace:
+	GetHandleVerifier [0x00007FF732CF02E5+25029]
+	(No symbol) [0x00007FF732C452F0]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF732F6D73A+1947706]
+	(No symbol) [0x00007FF7329FC28F]
+	(No symbol) [0x00007FF732A8EAE0]
+	(No symbol) [0x00007FF732AA609A]
+	(No symbol) [0x00007FF732A88DF3]
+	(No symbol) [0x00007FF732A5D6A6]
+	(No symbol) [0x00007FF732A5CBB3]
+	(No symbol) [0x00007FF732A5D4D3]
+	(No symbol) [0x00007FF732B5638D]
+	(No symbol) [0x00007FF732B63F2F]
+	(No symbol) [0x00007FF732B5C91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF732DD76EA+284650]
+	(No symbol) [0x00007FF732C52C81]
+	(No symbol) [0x00007FF732C4B724]
+	(No symbol) [0x00007FF732C4B873]
+	(No symbol) [0x00007FF732C3D4B6]
+	BaseThreadInitThunk [0x00007FFBCD5D259D+29]
+	RtlUserThreadStart [0x00007FFBCEFAAF38+40]
+
+2025-05-06 14:59:46 | ERROR | 播放音乐失败: 网页搜索播放失败: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn.j-flag"}
+  (Session info: MicrosoftEdge=136.0.3240.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF732CF02E5+25029]
+	(No symbol) [0x00007FF732C452F0]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF732F6D73A+1947706]
+	(No symbol) [0x00007FF732A67D88]
+	(No symbol) [0x00007FF732A6804B]
+	(No symbol) [0x00007FF732AA8CA7]
+	(No symbol) [0x00007FF732A890CF]
+	(No symbol) [0x00007FF732A5E15D]
+	(No symbol) [0x00007FF732AA6698]
+	(No symbol) [0x00007FF732A88DF3]
+	(No symbol) [0x00007FF732A5D6A6]
+	(No symbol) [0x00007FF732A5CBB3]
+	(No symbol) [0x00007FF732A5D4D3]
+	(No symbol) [0x00007FF732B5638D]
+	(No symbol) [0x00007FF732B63F2F]
+	(No symbol) [0x00007FF732B5C91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF732DD76EA+284650]
+	(No symbol) [0x00007FF732C52C81]
+	(No symbol) [0x00007FF732C4B724]
+	(No symbol) [0x00007FF732C4B873]
+	(No symbol) [0x00007FF732C3D4B6]
+	BaseThreadInitThunk [0x00007FFBCD5D259D+29]
+	RtlUserThreadStart [0x00007FFBCEFAAF38+40]
+
+2025-05-06 15:19:42 | ERROR | 播放音乐失败: 网页搜索播放失败: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=136.0.3240.50)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AE5702E5+25029]
+	(No symbol) [0x00007FF7AE4C52F0]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AE7ED73A+1947706]
+	(No symbol) [0x00007FF7AE28B790]
+	(No symbol) [0x00007FF7AE2AA10A]
+	(No symbol) [0x00007FF7AE30ED27]
+	(No symbol) [0x00007FF7AE32609A]
+	(No symbol) [0x00007FF7AE308DF3]
+	(No symbol) [0x00007FF7AE2DD6A6]
+	(No symbol) [0x00007FF7AE2DCBB3]
+	(No symbol) [0x00007FF7AE2DD4D3]
+	(No symbol) [0x00007FF7AE3D638D]
+	(No symbol) [0x00007FF7AE3E3F2F]
+	(No symbol) [0x00007FF7AE3DC91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AE6576EA+284650]
+	(No symbol) [0x00007FF7AE4D2C81]
+	(No symbol) [0x00007FF7AE4CB724]
+	(No symbol) [0x00007FF7AE4CB873]
+	(No symbol) [0x00007FF7AE4BD4B6]
+	BaseThreadInitThunk [0x00007FFBCD5D259D+29]
+	RtlUserThreadStart [0x00007FFBCEFAAF38+40]
+
+2025-05-06 15:20:08 | ERROR | 播放音乐失败: 网页搜索播放失败: Message: element not interactable
+  (Session info: MicrosoftEdge=136.0.3240.50)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AE5702E5+25029]
+	(No symbol) [0x00007FF7AE4C52F0]
+	(No symbol) [0x00007FF7AE29B940]
+	(No symbol) [0x00007FF7AE2E344A]
+	(No symbol) [0x00007FF7AE2E1E7D]
+	(No symbol) [0x00007FF7AE30908A]
+	(No symbol) [0x00007FF7AE2DE15D]
+	(No symbol) [0x00007FF7AE2DE01D]
+	(No symbol) [0x00007FF7AE309350]
+	(No symbol) [0x00007FF7AE2DE15D]
+	(No symbol) [0x00007FF7AE326698]
+	(No symbol) [0x00007FF7AE308DF3]
+	(No symbol) [0x00007FF7AE2DD6A6]
+	(No symbol) [0x00007FF7AE2DCBB3]
+	(No symbol) [0x00007FF7AE2DD4D3]
+	(No symbol) [0x00007FF7AE3D638D]
+	(No symbol) [0x00007FF7AE3E3F2F]
+	(No symbol) [0x00007FF7AE3DC91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AE6576EA+284650]
+	(No symbol) [0x00007FF7AE4D2C81]
+	(No symbol) [0x00007FF7AE4CB724]
+	(No symbol) [0x00007FF7AE4CB873]
+	(No symbol) [0x00007FF7AE4BD4B6]
+	BaseThreadInitThunk [0x00007FFBCD5D259D+29]
+	RtlUserThreadStart [0x00007FFBCEFAAF38+40]
+
+2025-05-06 15:20:40 | ERROR | 播放音乐失败: 网页搜索播放失败: Message: element not interactable
+  (Session info: MicrosoftEdge=136.0.3240.50)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AE5702E5+25029]
+	(No symbol) [0x00007FF7AE4C52F0]
+	(No symbol) [0x00007FF7AE29B940]
+	(No symbol) [0x00007FF7AE2E344A]
+	(No symbol) [0x00007FF7AE2E1E7D]
+	(No symbol) [0x00007FF7AE30908A]
+	(No symbol) [0x00007FF7AE2DE15D]
+	(No symbol) [0x00007FF7AE2DE01D]
+	(No symbol) [0x00007FF7AE309350]
+	(No symbol) [0x00007FF7AE2DE15D]
+	(No symbol) [0x00007FF7AE326698]
+	(No symbol) [0x00007FF7AE308DF3]
+	(No symbol) [0x00007FF7AE2DD6A6]
+	(No symbol) [0x00007FF7AE2DCBB3]
+	(No symbol) [0x00007FF7AE2DD4D3]
+	(No symbol) [0x00007FF7AE3D638D]
+	(No symbol) [0x00007FF7AE3E3F2F]
+	(No symbol) [0x00007FF7AE3DC91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AE6576EA+284650]
+	(No symbol) [0x00007FF7AE4D2C81]
+	(No symbol) [0x00007FF7AE4CB724]
+	(No symbol) [0x00007FF7AE4CB873]
+	(No symbol) [0x00007FF7AE4BD4B6]
+	BaseThreadInitThunk [0x00007FFBCD5D259D+29]
+	RtlUserThreadStart [0x00007FFBCEFAAF38+40]
+
+2025-05-06 15:47:38 | ERROR | 播放音乐失败: 网页搜索播放失败: HTTPConnectionPool(host='localhost', port=60835): Max retries exceeded with url: /session/0252802d6416eb87c9e6a40b28a114f2/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000267EB0166A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-06 16:17:07 | ERROR | 播放音乐失败: 网页加载超时，请检查网络连接
+2025-05-06 16:38:37 | ERROR | 播放音乐失败: 网页搜索播放失败: Message: element not interactable
+  (Session info: MicrosoftEdge=136.0.3240.50)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A30D02E5+25029]
+	(No symbol) [0x00007FF7A30252F0]
+	(No symbol) [0x00007FF7A2DFB940]
+	(No symbol) [0x00007FF7A2E4344A]
+	(No symbol) [0x00007FF7A2E41E7D]
+	(No symbol) [0x00007FF7A2E6908A]
+	(No symbol) [0x00007FF7A2E3E15D]
+	(No symbol) [0x00007FF7A2E3E01D]
+	(No symbol) [0x00007FF7A2E69350]
+	(No symbol) [0x00007FF7A2E3E15D]
+	(No symbol) [0x00007FF7A2E86698]
+	(No symbol) [0x00007FF7A2E68DF3]
+	(No symbol) [0x00007FF7A2E3D6A6]
+	(No symbol) [0x00007FF7A2E3CBB3]
+	(No symbol) [0x00007FF7A2E3D4D3]
+	(No symbol) [0x00007FF7A2F3638D]
+	(No symbol) [0x00007FF7A2F43F2F]
+	(No symbol) [0x00007FF7A2F3C91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A31B76EA+284650]
+	(No symbol) [0x00007FF7A3032C81]
+	(No symbol) [0x00007FF7A302B724]
+	(No symbol) [0x00007FF7A302B873]
+	(No symbol) [0x00007FF7A301D4B6]
+	BaseThreadInitThunk [0x00007FFBCD5D259D+29]
+	RtlUserThreadStart [0x00007FFBCEFAAF38+40]
+
+2025-05-06 16:40:18 | ERROR | 播放音乐失败: 网页搜索播放失败: Message: element not interactable
+  (Session info: MicrosoftEdge=136.0.3240.50)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A30D02E5+25029]
+	(No symbol) [0x00007FF7A30252F0]
+	(No symbol) [0x00007FF7A2DFB940]
+	(No symbol) [0x00007FF7A2E4344A]
+	(No symbol) [0x00007FF7A2E41E7D]
+	(No symbol) [0x00007FF7A2E6908A]
+	(No symbol) [0x00007FF7A2E3E15D]
+	(No symbol) [0x00007FF7A2E3E01D]
+	(No symbol) [0x00007FF7A2E69350]
+	(No symbol) [0x00007FF7A2E3E15D]
+	(No symbol) [0x00007FF7A2E86698]
+	(No symbol) [0x00007FF7A2E68DF3]
+	(No symbol) [0x00007FF7A2E3D6A6]
+	(No symbol) [0x00007FF7A2E3CBB3]
+	(No symbol) [0x00007FF7A2E3D4D3]
+	(No symbol) [0x00007FF7A2F3638D]
+	(No symbol) [0x00007FF7A2F43F2F]
+	(No symbol) [0x00007FF7A2F3C91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A31B76EA+284650]
+	(No symbol) [0x00007FF7A3032C81]
+	(No symbol) [0x00007FF7A302B724]
+	(No symbol) [0x00007FF7A302B873]
+	(No symbol) [0x00007FF7A301D4B6]
+	BaseThreadInitThunk [0x00007FFBCD5D259D+29]
+	RtlUserThreadStart [0x00007FFBCEFAAF38+40]
+
+2025-05-06 16:45:19 | ERROR | 播放音乐失败: 网页加载超时，请检查网络连接
+2025-05-06 16:48:18 | ERROR | 播放音乐失败: 网页加载超时，请检查网络连接
+2025-05-06 16:49:26 | ERROR | 播放音乐失败: 网页搜索播放失败: Message: element not interactable
+  (Session info: MicrosoftEdge=136.0.3240.50)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A30D02E5+25029]
+	(No symbol) [0x00007FF7A30252F0]
+	(No symbol) [0x00007FF7A2DFB940]
+	(No symbol) [0x00007FF7A2E4344A]
+	(No symbol) [0x00007FF7A2E41E7D]
+	(No symbol) [0x00007FF7A2E6908A]
+	(No symbol) [0x00007FF7A2E3E15D]
+	(No symbol) [0x00007FF7A2E3E01D]
+	(No symbol) [0x00007FF7A2E69350]
+	(No symbol) [0x00007FF7A2E3E15D]
+	(No symbol) [0x00007FF7A2E86698]
+	(No symbol) [0x00007FF7A2E68DF3]
+	(No symbol) [0x00007FF7A2E3D6A6]
+	(No symbol) [0x00007FF7A2E3CBB3]
+	(No symbol) [0x00007FF7A2E3D4D3]
+	(No symbol) [0x00007FF7A2F3638D]
+	(No symbol) [0x00007FF7A2F43F2F]
+	(No symbol) [0x00007FF7A2F3C91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A31B76EA+284650]
+	(No symbol) [0x00007FF7A3032C81]
+	(No symbol) [0x00007FF7A302B724]
+	(No symbol) [0x00007FF7A302B873]
+	(No symbol) [0x00007FF7A301D4B6]
+	BaseThreadInitThunk [0x00007FFBCD5D259D+29]
+	RtlUserThreadStart [0x00007FFBCEFAAF38+40]
+
+2025-05-06 16:56:29 | ERROR | 播放音乐失败: 网页搜索播放失败: Message: element not interactable
+  (Session info: MicrosoftEdge=136.0.3240.50)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A30D02E5+25029]
+	(No symbol) [0x00007FF7A30252F0]
+	(No symbol) [0x00007FF7A2DFB940]
+	(No symbol) [0x00007FF7A2E4344A]
+	(No symbol) [0x00007FF7A2E41E7D]
+	(No symbol) [0x00007FF7A2E6908A]
+	(No symbol) [0x00007FF7A2E3E15D]
+	(No symbol) [0x00007FF7A2E3E01D]
+	(No symbol) [0x00007FF7A2E69350]
+	(No symbol) [0x00007FF7A2E3E15D]
+	(No symbol) [0x00007FF7A2E86698]
+	(No symbol) [0x00007FF7A2E68DF3]
+	(No symbol) [0x00007FF7A2E3D6A6]
+	(No symbol) [0x00007FF7A2E3CBB3]
+	(No symbol) [0x00007FF7A2E3D4D3]
+	(No symbol) [0x00007FF7A2F3638D]
+	(No symbol) [0x00007FF7A2F43F2F]
+	(No symbol) [0x00007FF7A2F3C91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A31B76EA+284650]
+	(No symbol) [0x00007FF7A3032C81]
+	(No symbol) [0x00007FF7A302B724]
+	(No symbol) [0x00007FF7A302B873]
+	(No symbol) [0x00007FF7A301D4B6]
+	BaseThreadInitThunk [0x00007FFBCD5D259D+29]
+	RtlUserThreadStart [0x00007FFBCEFAAF38+40]
+
+2025-05-06 17:03:24 | ERROR | 播放音乐失败: 网页加载超时，请检查网络连接
+2025-05-06 17:05:15 | ERROR | 播放音乐失败: 网页加载超时，请检查网络连接
+2025-05-06 17:05:59 | ERROR | 播放音乐失败: 网页加载超时，请检查网络连接
+2025-05-06 17:06:38 | ERROR | 播放音乐失败: 网页加载超时，请检查网络连接
+2025-05-06 17:11:03 | ERROR | 播放音乐失败: 网页加载超时，请检查网络连接
+2025-05-06 17:16:20 | ERROR | 播放音乐失败: 网页加载超时，请检查网络连接
+2025-05-06 18:23:19 | ERROR | 播放音乐失败: 网页搜索播放失败: HTTPConnectionPool(host='localhost', port=52867): Max retries exceeded with url: /session/6d687f4e871565427f7ce1b43fa04f65/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000266E581D400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-07 11:02:07 | ERROR | 浏览器播放音乐失败: Message: no such element: Unable to locate element: {"method":"css selector","selector":".srchsongst .item .txt a"}
+  (Session info: MicrosoftEdge=136.0.3240.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7610002E5+25029]
+	(No symbol) [0x00007FF760F552F0]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF76127D73A+1947706]
+	(No symbol) [0x00007FF760D77D88]
+	(No symbol) [0x00007FF760D7804B]
+	(No symbol) [0x00007FF760DB8CA7]
+	(No symbol) [0x00007FF760D990CF]
+	(No symbol) [0x00007FF760D6E15D]
+	(No symbol) [0x00007FF760DB6698]
+	(No symbol) [0x00007FF760D98DF3]
+	(No symbol) [0x00007FF760D6D6A6]
+	(No symbol) [0x00007FF760D6CBB3]
+	(No symbol) [0x00007FF760D6D4D3]
+	(No symbol) [0x00007FF760E6638D]
+	(No symbol) [0x00007FF760E73F2F]
+	(No symbol) [0x00007FF760E6C91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7610E76EA+284650]
+	(No symbol) [0x00007FF760F62C81]
+	(No symbol) [0x00007FF760F5B724]
+	(No symbol) [0x00007FF760F5B873]
+	(No symbol) [0x00007FF760F4D4B6]
+	BaseThreadInitThunk [0x00007FF90D32259D+29]
+	RtlUserThreadStart [0x00007FF90E68AF38+40]
+
+2025-05-07 11:02:24 | ERROR | 浏览器播放音乐失败: Message: no such element: Unable to locate element: {"method":"css selector","selector":".srchsongst .item .txt a"}
+  (Session info: MicrosoftEdge=136.0.3240.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7610002E5+25029]
+	(No symbol) [0x00007FF760F552F0]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF76127D73A+1947706]
+	(No symbol) [0x00007FF760D77D88]
+	(No symbol) [0x00007FF760D7804B]
+	(No symbol) [0x00007FF760DB8CA7]
+	(No symbol) [0x00007FF760D990CF]
+	(No symbol) [0x00007FF760D6E15D]
+	(No symbol) [0x00007FF760DB6698]
+	(No symbol) [0x00007FF760D98DF3]
+	(No symbol) [0x00007FF760D6D6A6]
+	(No symbol) [0x00007FF760D6CBB3]
+	(No symbol) [0x00007FF760D6D4D3]
+	(No symbol) [0x00007FF760E6638D]
+	(No symbol) [0x00007FF760E73F2F]
+	(No symbol) [0x00007FF760E6C91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7610E76EA+284650]
+	(No symbol) [0x00007FF760F62C81]
+	(No symbol) [0x00007FF760F5B724]
+	(No symbol) [0x00007FF760F5B873]
+	(No symbol) [0x00007FF760F4D4B6]
+	BaseThreadInitThunk [0x00007FF90D32259D+29]
+	RtlUserThreadStart [0x00007FF90E68AF38+40]
+
+2025-05-07 11:21:26 | ERROR | 浏览器播放音乐失败: Message: no such element: Unable to locate element: {"method":"css selector","selector":".srchsongst .item .txt a"}
+  (Session info: MicrosoftEdge=136.0.3240.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7610002E5+25029]
+	(No symbol) [0x00007FF760F552F0]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF76127D73A+1947706]
+	(No symbol) [0x00007FF760D77D88]
+	(No symbol) [0x00007FF760D7804B]
+	(No symbol) [0x00007FF760DB8CA7]
+	(No symbol) [0x00007FF760D990CF]
+	(No symbol) [0x00007FF760D6E15D]
+	(No symbol) [0x00007FF760DB6698]
+	(No symbol) [0x00007FF760D98DF3]
+	(No symbol) [0x00007FF760D6D6A6]
+	(No symbol) [0x00007FF760D6CBB3]
+	(No symbol) [0x00007FF760D6D4D3]
+	(No symbol) [0x00007FF760E6638D]
+	(No symbol) [0x00007FF760E73F2F]
+	(No symbol) [0x00007FF760E6C91F]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7610E76EA+284650]
+	(No symbol) [0x00007FF760F62C81]
+	(No symbol) [0x00007FF760F5B724]
+	(No symbol) [0x00007FF760F5B873]
+	(No symbol) [0x00007FF760F4D4B6]
+	BaseThreadInitThunk [0x00007FF90D32259D+29]
+	RtlUserThreadStart [0x00007FF90E68AF38+40]
+
+2025-05-11 23:18:57 | ERROR | 搜索失败: name 'result_text' is not defined
+2025-05-18 15:11:52 | ERROR | API异常 | AttributeError: 'LogManager' object has no attribute 'log_info' | 查询内容: 什么是人工智能?
+2025-05-18 15:13:29 | ERROR | 模型加载失败: CUDA out of memory. Tried to allocate 26.00 MiB. GPU 0 has a total capacity of 6.00 GiB of which 0 bytes is free. Of the allocated memory 4.68 GiB is allocated by PyTorch, and 301.84 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2025-05-18 15:26:05 | ERROR | API异常 | AttributeError: 'LogManager' object has no attribute 'log_info' | 查询内容: 什么是人工智能?
+2025-05-18 15:30:36 | ERROR | API异常 | AttributeError: 'LogManager' object has no attribute 'log_info' | 查询内容: 什么是人工智能?
+2025-05-18 15:36:51 | ERROR | API异常 | AttributeError: 'LogManager' object has no attribute 'log_debug' | 查询内容: 这是人工智能
+2025-05-18 16:35:11 | ERROR | API异常 | AttributeError: 'LogManager' object has no attribute 'log_info' | 查询内容: 什么是人工智能?
+2025-05-18 16:39:12 | ERROR | API异常 | AttributeError: 'LogManager' object has no attribute 'log_info' | 查询内容: 想知道什么是人工智能
+2025-05-18 17:49:07 | ERROR | API异常 | AttributeError: 'LogManager' object has no attribute 'log_info' | 查询内容: 这是人工智能
+2025-06-03 17:47:10 | INFO | API调用成功 | 模型:deepseek-chat | 令牌数:25
+2025-06-03 17:47:46 | INFO | API调用成功 | 模型:deepseek-chat | 令牌数:190
+2025-06-04 21:41:30 | INFO | API调用成功 | 模型:deepseek-chat | 令牌数:479
+2025-06-05 09:53:30 | INFO | API调用成功 | 模型:deepseek-chat | 令牌数:255
+2025-06-05 09:57:09 | INFO | API调用成功 | 模型:deepseek-chat | 令牌数:387
